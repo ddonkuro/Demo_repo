@@ -16,6 +16,7 @@
 
         var dateFieldsPresentFuture =
             [];
+<<<<<<< HEAD
 
 var dateFieldsPastPresent =
             [
@@ -36,6 +37,9 @@ var dateFieldsPastPresent =
         var dateFieldsPresentFuture =
             [];
 
+=======
+//testing feature
+>>>>>>> 8e17bdea5624149c1e01951c4081aad29cbfcb20
         var reqFieldForActivity =
             [
                 {
