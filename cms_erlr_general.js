@@ -17,6 +17,25 @@
         var dateFieldsPresentFuture =
             [];
 
+var dateFieldsPastPresent =
+            [
+                'GEN_CUST_INIT_CONTACT_DT',
+                'GEN_INVESTIGATE_START_DT',
+                'GEN_INVESTIGATE_END_DT',
+            ];
+
+        var dateFieldsPresentFuture =
+            [];
+			var dateFieldsPastPresent =
+            [
+                'GEN_CUST_INIT_CONTACT_DT',
+                'GEN_INVESTIGATE_START_DT',
+                'GEN_INVESTIGATE_END_DT',
+            ];
+
+        var dateFieldsPresentFuture =
+            [];
+
         var reqFieldForActivity =
             [
                 {
