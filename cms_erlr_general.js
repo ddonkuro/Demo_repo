@@ -17,7 +17,9 @@
         var dateFieldsPresentFuture =
             [];
 
-
+	function someFunction(){
+		
+	}
         var reqFieldForActivity =
             [
                 {
