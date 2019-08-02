@@ -16,30 +16,8 @@
 
         var dateFieldsPresentFuture =
             [];
-<<<<<<< HEAD
 
-var dateFieldsPastPresent =
-            [
-                'GEN_CUST_INIT_CONTACT_DT',
-                'GEN_INVESTIGATE_START_DT',
-                'GEN_INVESTIGATE_END_DT',
-            ];
 
-        var dateFieldsPresentFuture =
-            [];
-			var dateFieldsPastPresent =
-            [
-                'GEN_CUST_INIT_CONTACT_DT',
-                'GEN_INVESTIGATE_START_DT',
-                'GEN_INVESTIGATE_END_DT',
-            ];
-
-        var dateFieldsPresentFuture =
-            [];
-
-=======
-//testing feature
->>>>>>> 8e17bdea5624149c1e01951c4081aad29cbfcb20
         var reqFieldForActivity =
             [
                 {
